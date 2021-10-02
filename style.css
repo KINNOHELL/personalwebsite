@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@1,300;1,400&display=swap');
 
+
 * {
     box-sizing: border-box;
     margin: 0;
@@ -41,6 +42,8 @@ header {
 
    
 }
+
+
 
 /* LINEA 15 */
 .nav-links{
@@ -103,10 +106,9 @@ width: 14%;
 
 }
 
-
 body {
-    background-image:url(https://kinnohell.github.io/personalwebsite/images/background4k.jpg);
-    background-color: #24252A;
+    background-image: url(https://kinnohell.github.io/personalwebsite/images/background4k.jpg);
+   background-color: #24252A;
     background-position:bottom;
     background-repeat:repeat;
     background-size:cover;
@@ -172,57 +174,14 @@ text-align: center;
 }
 
 
-/* .footertest{
-    margin-top: 5%;
-    position: fixed;   
-    height: auto;
-    left: 0;
-    bottom: 0%;
-    width: 100%;
-    backdrop-filter: blur(75px);
-    color: white;
-    text-align: center;
-} */
 
-/* footer {
-    background-color: #24252A;
-    width: 100%;
-    height: 150px;
-     
-}
-
-
-.footerlist li{
-    margin-top: 10px;
-}
-.footerlist li a {
-    transition: all 0.3s ease 0s;
-}
-.footerlist li a:hover {
-    color: #f3b0b7
-}
-
-.ftlistLEFT {
-    list-style: none;
-    text-align:left;
-    
-    margin-left: 10%;
-
-}
-
-.copyright {
-    margin-top:15px;
-    text-align:center;
-    font-size:13px;
-    color:whitesmoke;
-    margin-bottom:0;
-} */
 
 .footer {
     
     background-color: #202120;
     backdrop-filter: blur(175px);
     height: 175px;
+    background-size: auto;
     
 }
 
@@ -256,7 +215,4 @@ margin-left: 1.5%;
   }
   .fa:hover {
     color: #f3b0b7;
-
-
-
-
+  }
