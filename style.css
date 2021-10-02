@@ -95,6 +95,7 @@ font-size: 25px;
 
 .boxh3{
     outline-style: solid;
+    outline-color: whitesmoke;
 width: 14%;
     padding: 9px 25px;  
     margin: auto;
