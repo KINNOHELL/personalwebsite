@@ -131,7 +131,7 @@ p {
 }
 
 .P1 {
-    text-align: center;
+    text-align: left;
 }
 
 
@@ -216,3 +216,7 @@ margin-left: 1.5%;
   .fa:hover {
     color: #f3b0b7;
   }
+
+  .copyright-text {
+    text-align: center;    
+}
