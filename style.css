@@ -215,7 +215,8 @@ margin-left: 1.5%;
   }
 
   .copyright-text ul{
-    align-items: center;
+    text-align: center;
     font-size: 13px;  
+    list-style: none;
     display:inline-block;  
 }
