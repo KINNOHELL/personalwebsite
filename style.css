@@ -216,7 +216,9 @@ margin-left: 1.5%;
 
   .footer p{
     text-align: right; 
-    font-size: 13px;
+  font-size: 13px;  
+   align-items: flex-end;
+   
     display:inline-block; 
     margin-left: 50%;
     
