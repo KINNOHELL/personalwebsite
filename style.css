@@ -214,12 +214,8 @@ margin-left: 1.5%;
     color: #f3b0b7;
   }
 
-  .copyright-text{
-    text-align: center; 
+  .copyright-text ul{
+    align-items: center;
     font-size: 13px;  
-   
-    display:inline-block; 
-    
-    
-    
+    display:inline-block;  
 }
