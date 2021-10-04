@@ -209,14 +209,13 @@ margin-left: 1.5%;
     font-size: 30px;
 
   }
-  .fa {
- 
- 
-  }
+  
   .fa:hover {
     color: #f3b0b7;
   }
 
   .copyright-text {
-    text-align: center;    
+    text-align: right;   
+    font-size: 13px;
+     
 }
