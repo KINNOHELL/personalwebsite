@@ -214,9 +214,11 @@ margin-left: 1.5%;
     color: #f3b0b7;
   }
 
+  
+
   .copyright-text li{
-    text-align: center;
-    
+text-align: center;
+margin-left: 9.5%;
     font-size: 13px;  
-    display: inline-block;
+    display: inline-flex;
 }
