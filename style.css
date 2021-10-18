@@ -27,7 +27,7 @@ a, button, body{
 
 /* LINEA 11 y LINEA 23 */
 header {
-    background-color: #202120;
+    backdrop-filter: blur(180px);
     align-items: center;
     padding: 30px 10%;
     
